@@ -1,0 +1,38 @@
+
+.navbar {
+    background-color: #ff5722 !important;
+  }
+  
+  .navbar .navbar-nav {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+  }
+  
+  .navbar .nav-link {
+    color: white !important; 
+    font-weight: bold;
+    margin: 0 15px;
+  }
+  
+  .navbar .nav-link:hover {
+    text-decoration: underline;
+    color: darkorange !important;
+  }
+  
+  .navbar .navbar-brand {
+    color: white !important;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .navbar-toggler {
+    border: none;
+  }
+  
+  .navbar-toggler-icon {
+    background-color: white;
+    border-radius: 3px;
+  }
+  
